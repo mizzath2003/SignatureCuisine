@@ -1,5 +1,5 @@
 # Signature-Cuisine
-Welcome to Signature Cuisine, a dynamic restaurant website that brings an immersive dining experience to the digital world. Explore our interactive menu, make seamless reservations, and witness the culinary journey unfold in real-time.
+Welcome to Signature Cuisine, a dynamic restaurant website that brings an immersive dining experience to the digital world. Explore our interactive menu, make seamless reservations, and witness the culinary journey unfold in real time.
 
 Key Features:
 
