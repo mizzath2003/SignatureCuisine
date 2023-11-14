@@ -2,6 +2,7 @@
 
 Welcome to Signature Cuisine, a dynamic restaurant website that brings an immersive dining experience to the digital world.
 
+![Signature Cuisine](https://drive.google.com/file/d/1uHqBcEDr-fQmiVsEdViD5I50Skv7m38x/view?usp=drive_link)
 
 ## Introduction
 Welcome to Signature Cuisine, a dynamic restaurant website designed for large screens. Currently, the website provides an immersive experience on desktops, but we want to make it accessible to users on various devices.
