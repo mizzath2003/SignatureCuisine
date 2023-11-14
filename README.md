@@ -18,4 +18,7 @@ Welcome to Signature Cuisine, a dynamic restaurant website designed for large sc
 - 🔧 Open issues for feedback, bug reports, or feature requests related to responsiveness.
 - 🤝 Join our growing community of contributors.
 
+## Contribute to Responsiveness:
+We're looking for contributors to help make Signature Cuisine responsive! Whether you're passionate about front-end design, media queries, or responsive frameworks, your expertise is needed to ensure that the website adapts seamlessly to different screen sizes.
+
 Let's together ensure that Signature Cuisine. becomes a digital culinary haven accessible to everyone! 🍽️✨
